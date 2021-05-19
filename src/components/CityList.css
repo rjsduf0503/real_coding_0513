@@ -1,0 +1,8 @@
+.city {
+    color: brown;
+}
+
+.cityOver10{
+    color: red;
+    font-weight: bold;
+}
